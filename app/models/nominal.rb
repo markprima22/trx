@@ -1,0 +1,2 @@
+class Nominal < ApplicationRecord
+end
