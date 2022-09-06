@@ -1,26 +1,9 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+# TRX
+    TRX is stands for Transaction Service and based on --API config only.
 
 * Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-trx
-trx
+    ruby 3.0.2p107 (2021-07-07 revision 0db68f0233) [x86_64-linux]
+* Rails version
+    Rails 7.0.3.1
+* Database
+    sqlite3
